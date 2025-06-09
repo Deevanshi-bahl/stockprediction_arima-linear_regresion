@@ -16,5 +16,8 @@ This project requires the following dependencies:
 
 Programming Language: Python
 
+![📷 Demo Screenshot](demo.jpg)
+
+
 
 
