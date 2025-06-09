@@ -1,0 +1,28 @@
+.main {
+    background-color: #121212;
+    color: #FFFFFF;
+    
+}
+
+.block-container {
+    padding: 2rem;
+}
+
+.stButton>button {
+    background-color: #acf66b;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.stSelectbox>div>div {
+    background-color: #e484aa;
+    color: white;
+}
+
+.stRadio > div {
+    background-color: #e484aa;
+    color: white !important ;
+    border-radius: 8px;
+    padding: 5px;
+}
